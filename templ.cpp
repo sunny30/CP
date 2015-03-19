@@ -12,7 +12,10 @@
 typedef long long LL ;
 using namespace  std ;
 
+int logic(){
 
+	return 0 ;
+}
 int main(){
 	return 0 ;
 }
