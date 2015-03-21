@@ -9,6 +9,7 @@
 #include<stack>
 #include<queue>
 
+#define MAXN 10001
 typedef long long LL ;
 using namespace  std ;
 
